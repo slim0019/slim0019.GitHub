@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+/* chaping color of header bg */
+
+header{
+    background-color: blueviolet;
+    padding: 20px;
+    margin:20px;
+}
+p{
+    color: rgb(250, 215, 236);
+}
+h1,h2,h3{
+    text-decoration: underline;
+}
